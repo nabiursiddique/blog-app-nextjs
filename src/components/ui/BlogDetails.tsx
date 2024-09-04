@@ -14,7 +14,7 @@ const BlogDetails = ({ blog }: { blog: Blog }) => {
       <div className='avatar items-center justify-center bg-slate-100 mb-5 py-5 rounded-lg text-2xl'>
         <div className='w-8 mr-1 rounded-full'>
           <Image
-            src='https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg'
+            src='https://pagedone.io/asset/uploads/1696238411.png'
             width={100}
             height={100}
             alt='author image'
