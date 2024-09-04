@@ -1,6 +1,7 @@
 'use client';
 
 import BlogCard from '@/components/ui/BlogCard';
+import LoadingCard from '@/components/ui/LoadingCard';
 import { useGetBlogsQuery } from '@/redux/api/baseApi';
 import { Blog } from '@/types';
 
